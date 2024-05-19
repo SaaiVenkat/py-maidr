@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/bar.html</loc>
-    <lastmod>2024-05-15T06:52:56.452Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/bar.html</loc>
+    <lastmod>2024-05-19T14:23:03.539Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/heat.html</loc>
-    <lastmod>2024-05-15T06:52:56.456Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/count.html</loc>
+    <lastmod>2024-05-19T14:23:03.547Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/index.html</loc>
-    <lastmod>2024-05-15T06:52:56.440Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/hist.html</loc>
+    <lastmod>2024-05-19T14:23:03.555Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/count.html</loc>
-    <lastmod>2024-05-15T06:52:56.456Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/index.html</loc>
+    <lastmod>2024-05-19T14:23:03.527Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/Maidr.render.html</loc>
-    <lastmod>2024-05-15T06:52:56.464Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/line.html</loc>
+    <lastmod>2024-05-19T14:23:03.559Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/box.html</loc>
-    <lastmod>2024-05-15T06:52:56.452Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/Maidr.show.html</loc>
+    <lastmod>2024-05-19T14:23:03.567Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/Maidr.save_html.html</loc>
-    <lastmod>2024-05-15T06:52:56.464Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/heat.html</loc>
+    <lastmod>2024-05-19T14:23:03.551Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/hist.html</loc>
-    <lastmod>2024-05-15T06:52:56.460Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/Maidr.save_html.html</loc>
+    <lastmod>2024-05-19T14:23:03.571Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/line.html</loc>
-    <lastmod>2024-05-15T06:52:56.460Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/box.html</loc>
+    <lastmod>2024-05-19T14:23:03.543Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/scatter.html</loc>
-    <lastmod>2024-05-15T06:52:56.460Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/Maidr.render.html</loc>
+    <lastmod>2024-05-19T14:23:03.567Z</lastmod>
   </url>
   <url>
-    <loc>https://saaivenkat.github.io/py-maidr/api/core/Maidr.show.html</loc>
-    <lastmod>2024-05-15T06:52:56.464Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saaivenkat.github.io/py-maidr/get-started.html</loc>
-    <lastmod>2024-05-15T06:52:27.476Z</lastmod>
+    <loc>https://xability.github.io/py_maidr/api/core/scatter.html</loc>
+    <lastmod>2024-05-19T14:23:03.563Z</lastmod>
   </url>
 </urlset>
