@@ -53,5 +53,4 @@ jobs:
       - name: Run quartodoc
         run: |
           cd docs
-          poetry show quartodoc
           poetry run quartodoc build --verbose
